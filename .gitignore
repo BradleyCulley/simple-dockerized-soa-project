@@ -1,0 +1,11 @@
+.idea
+target
+*.iml
+out
+.DS_Store
+*.pem
+plan
+.terraform
+*.tfstate*
+configuration/custom-nginx
+node_modules
